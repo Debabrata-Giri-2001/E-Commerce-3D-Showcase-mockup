@@ -1,4 +1,4 @@
-import { image1, image2, image3, image4, image5, image6 } from '../assets';
+import { image3 } from '../assets';
 import { Link } from 'react-router-dom';
 import { products } from './Product/data';
 
